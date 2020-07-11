@@ -3,8 +3,62 @@
 }
 body{
     background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.sec{
+width: 100%;
+}
+
+.chick{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 0px;
+    position: relative;
+}
+.bee{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 0px;
+    position: relative;
+}
+.sush{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 0px;
+    position: relative;
+}
+.para{
+    border: 5px solid black;
+    width: 90%;
+    height: auto;
+    margin: 2.5px;
+    padding: 2%;
+    padding-top: 55px;
+    background-color: brown;
+
+}
 #menu{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +66,7 @@ body{
 
 }
 
-p{
+/* p{
     border: 5px solid black;
     background-color: brown;
     width: 90%;
@@ -21,7 +75,7 @@ p{
     margin-right: auto;
     margin-left: auto;
     font-family: Arial, Helvetica, sans-serif;
-}
+} */
 .row{
     width: 100%;
 }
